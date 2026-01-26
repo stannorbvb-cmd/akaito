@@ -22,4 +22,5 @@ Comfortable for long sessions
 
 
 
-Apply via Omarchy.
+Apply via Omarchy:
+omarchy-theme-install https://github.com/stannorbvb-cmd/Akaito.git
