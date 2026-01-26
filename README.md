@@ -20,7 +20,7 @@ Comfortable for long sessions
 
 <img width="2560" height="1600" alt="screenshot-2026-01-26_08-59-58" src="https://github.com/user-attachments/assets/b3cb553e-d1e1-413b-9c81-ecbf055c13f8" />
 
-
-
-Apply via Omarchy:
+Install
 omarchy-theme-install https://github.com/stannorbvb-cmd/Akaito.git
+
+Apply via Omarchy.
